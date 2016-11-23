@@ -1,5 +1,0 @@
-include ':iOIOLibAndroid'
-include ':iOIOLibAccessory'
-include ':iOIOLibAndroidDevice'
-include ':iOIOLibBT'
-include ':helloIOIO'
