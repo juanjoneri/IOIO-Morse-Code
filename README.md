@@ -7,7 +7,7 @@
 ## Description
 This simple app allows the user to convert plain text into morse code and output it using IOIO's integrated LED
 
-## purpose
+## Purpose
 The purpose of the project is to set up Android Studeio environment for the use of the IOIO board and test IOIO's basic features
 
 ### A picture of the UI
