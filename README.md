@@ -11,4 +11,4 @@ This simple app allows the user to convert plain text into morse code and output
 The purpose of the project is to set up Android Studeio environment for the use of the IOIO board and test IOIO's basic features
 
 ### A picture of the UI
-<img src="http://juanjoneri.me/img/Morse/Screen.png" width="500"/>
+<img src="http://juanjoneri.com/img/Morse/Screen.png" width="500"/>
