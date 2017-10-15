@@ -1,5 +1,5 @@
 # IOIO-Morse-Code
-![Icon of the app](http://juanjoneri.me/img/Morse/ic_launcher.png)
+![Icon of the app](http://juanjoneri.com/img/Morse/ic_launcher.png)
 
 **Download APK above!**
 *Requires API 21 or higher*
